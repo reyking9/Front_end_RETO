@@ -10,19 +10,19 @@
 ### La aplicación se ejecutará en la siguiente dirección:
 ## http://localhost:3000
 ### Se utilizó las siguientes librerías:
-### Nombre: React Bootstrap  
-### Comando de instalación: npm install react-bootstrap@next bootstrap@5.1.0
+#### Nombre: React Bootstrap  
+#### Comando de instalación: npm install react-bootstrap@next bootstrap@5.1.0
 #### ------------------------------------------------------------------------
-### Nombre: Axios
-### Comando de instalación: npm install axios
+#### Nombre: Axios
+#### Comando de instalación: npm install axios
 #### ------------------------------------------------------------------------
-### Nombre: React-Route
-### Comando de instalación: npm install --save react-router-dom
+#### Nombre: React-Route
+#### Comando de instalación: npm install --save react-router-dom
 #### ------------------------------------------------------------------------
-### Nombre: FontAwesome
-### Comandos de instalación:  npm i --save @fortawesome/fontawesome-svg-core
-###                           npm install --save @fortawesome/free-solid-svg-icons
-###                           npm install --save @fortawesome/react-fontawesome
+#### Nombre: FontAwesome
+#### Comandos de instalación:  npm i --save @fortawesome/fontawesome-svg-core
+####                           npm install --save @fortawesome/free-solid-svg-icons
+####                           npm install --save @fortawesome/react-fontawesome
 
 
 
